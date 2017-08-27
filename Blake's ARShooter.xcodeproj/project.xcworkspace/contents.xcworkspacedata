@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:ARViewer.xcodeproj">
+      location = "self:/Users/blakebrunner/Documents/ARShooter/Blake&apos;s ARShooter.xcodeproj">
    </FileRef>
 </Workspace>
